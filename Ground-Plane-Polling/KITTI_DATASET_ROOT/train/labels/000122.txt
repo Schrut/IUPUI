@@ -1,0 +1,1 @@
+/home/schrut/git/IUPUI/Ground-Plane-Polling/KITTI_DATASET_ROOT/raw/data_object_mod_label_2/training/label_2/000122.txt
